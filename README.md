@@ -1,4 +1,4 @@
-# Hi, I'm Harini! 👋  
+# Hi, I'm Harini!
 ### Aspiring Software Developer | Python • SQL • HTML • CSS  
 
 I'm a motivated and detail-oriented IT student passionate about building impactful and 
